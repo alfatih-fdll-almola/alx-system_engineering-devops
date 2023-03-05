@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Ports and sockets
+netstat --listening --program
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
